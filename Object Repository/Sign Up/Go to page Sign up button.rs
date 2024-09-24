@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>Sign up button</name>
+   <name>Go to page Sign up button</name>
    <tag></tag>
    <elementGuidId>6df51250-7c37-490d-9de8-568a08697d53</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
